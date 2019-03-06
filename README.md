@@ -9,8 +9,11 @@ PyTorch implementation of Double Attention Net
  - PyTorch=0.3
     
 # Usage
- '''
-     doubleA = DoubleAttentionLayer(in_channels, c_m, c_n)
- '''
+ 
+```
+  from DoubleAttentionLayer import DoubleAttentionLayer
+  
+  doubleA = DoubleAttentionLayer(in_channels, out_channels, c_n)
+```
  
 

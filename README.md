@@ -1,5 +1,5 @@
 # DoubleAttentionNet
-PyTorch implementation of Double Attention Net
+PyTorch implementation of Double Attention Net, proposed in ***A2-Nets: Double Attention Networks***.
 
 
 
